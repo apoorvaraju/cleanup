@@ -10,37 +10,71 @@
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-  <script src='https://unpkg.com/mithril'></script>
+  <script src='https://unpkg.com/mithril@2.0.0-rc.3'></script>
+  <style>
+    .header { color: indianred; margin-top: 0.25em; }
+    .company_name { color: steelblue; }
+  </style>
 </head>
 
 <body>
   <div class="container-fluid">
-    <div id='output'></div>
+    <div id='arena'></div>
   </div>
   <script>
     const Store = {
       ids: null,
       fetchIds: function () {
-        console.log('In fetchIds');
         m.request('http://localhost:3000/ids')
           .then(function (data) {
             Store.ids = data
           })
+      },
+      setId: function(id, selected_id) {
+        let newrec = Store.ids.find(function (rec) {
+          return rec.id == id
+        })
+        console.log('newrec', JSON.stringify(newrec, 0, 2));
+        if (newrec) {
+          if (newrec.selected == selected_id) {
+            delete newrec.selected
+          } else {
+            newrec['selected'] = selected_id
+          }
+          m.request({
+            method: 'put',
+            url: `http://localhost:3000/ids/${id}`, data: newrec
+          }).then(function (data) {
+            m.redraw()
+          })
+        } else {
+          alert("Couldn't find company with id: " + id)
+        }
       }
     }
 
     const CompanyListing = {
+      handleIdSelection: function(recid, refid) {
+        return function() {
+          Store.setId(recid, refid)
+        }
+      },
       view: function (vnode) {
         let ids = vnode.attrs.ids
-        console.log(ids.length);
-        return m('ol',
+        return m('table.table.table-bordered',
           ids.map(function (rec) {
-            return m('li',
-              m('span',
-                rec.name + ".",
-                  rec.refs.map(function (ref) {
-                    return m('b', `${ref.id} (${ref.count})`)
-                  })))
+            return m('tr',
+              m('td.company_name', rec.name),
+              m('td',
+                rec.refs.map(function (ref) {
+                  var current = (rec.selected == ref.id) ? 'btn-primary' : 'btn-outline-info'
+                  return [
+                    m(`button.btn.btn-sm.${current}`,
+                      {onclick: CompanyListing.handleIdSelection(rec.id, ref.id),},
+                      `${ref.id} (${ref.count})`),
+                    m.trust(' &nbsp; ')
+                  ]
+                })))
           })
         )
       }
@@ -49,18 +83,22 @@
     const App = {
       oncreate: Store.fetchIds,
       view() {
-        if (Store.ids) {
-          // return m('p', '# of ids: ' + Store.ids.length)
-          return m(CompanyListing, {
-            ids: Store.ids
-          })
-        } else {
-          return m('p', 'Mithril ' + m.version + ' ready to render page.')
-        }
+        return (Store.ids)
+        ? [
+            m('h4.header', 'Company ID selector'),
+            m(CompanyListing, {
+              ids: Store.ids
+            })
+          ]
+        : [
+            m('p.header', 'Loading ...'),
+            m('hr'),
+            m('p.small', 'Company ID selector. Mithril ' + m.version)
+          ]
       }
     }
 
-    const app = m.mount(document.getElementById('output'), App)
+    const app = m.mount(document.getElementById('arena'), App)
   </script>
 </body>
 
