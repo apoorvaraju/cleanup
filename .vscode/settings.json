@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "/home/vap/anaconda3/bin/python"
+    "python.pythonPath": "/home/vap/anaconda3/bin/python",
+    "spellright.language": [],
+    "spellright.documentTypes": [
+        "latex"
+    ]
 }

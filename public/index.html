@@ -18,7 +18,7 @@
 </head>
 
 <body>
-  
+
   <div class="container-fluid">
     <div class="col-12">
       <div class="row">
@@ -27,89 +27,8 @@
     </div>
   </div>
 
-  <script>
+  <script src='app.js'></script>
 
-    const host = location.host
-
-    const Store = {
-      ids: null,
-      fetchIds: function () {
-        m.request(`http://${host}/ids`)   // `http://localhost:3000/ids`
-          .then(function (data) {
-            Store.ids = data
-          })
-      },
-      setId: function(id, selected_id) {
-        let newrec = Store.ids.find(function (rec) {
-          return rec.id == id
-        })
-        // console.log('newrec', JSON.stringify(newrec, 0, 2));
-        if (newrec) {
-          if (newrec.selected == selected_id) {
-            delete newrec.selected
-          } else {
-            newrec['selected'] = selected_id
-          }
-          m.request({
-            method: 'put',
-            url: `http://${host}/ids/${id}`,
-            data: newrec
-          }).then(function (data) {
-            m.redraw()
-          })
-        } else {
-          alert("Couldn't find company with id: " + id)
-        }
-      }
-    }
-
-    const CompanyListing = {
-      handleIdSelection: function(recid, refid) {
-        return function() {
-          Store.setId(recid, refid)
-        }
-      },
-      view: function (vnode) {
-        let ids = vnode.attrs.ids
-        return m('table.table.table-bordered',
-          ids.map(function (rec) {
-            return m('tr',
-              m('td.company_name', rec.name),
-              m('td',
-                rec.refs.map(function (ref) {
-                  var current = (rec.selected == ref.id) ? 'btn-primary' : 'btn-outline-info'
-                  return [
-                    m(`button.btn.btn-sm.${current}`,
-                      {onclick: CompanyListing.handleIdSelection(rec.id, ref.id),},
-                      `${ref.id} (${ref.count})`),
-                    m.trust(' &nbsp; ')
-                  ]
-                })))
-          })
-        )
-      }
-    }
-
-    const App = {
-      oncreate: Store.fetchIds,
-      view() {
-        return (Store.ids)
-        ? [
-            m('h4.header', 'Company ID selector'),
-            m(CompanyListing, {
-              ids: Store.ids
-            })
-          ]
-        : [
-            m('p.header', 'Loading ...'),
-            m('hr'),
-            m('p.small', 'Company ID selector. Mithril ' + m.version)
-          ]
-      }
-    }
-
-    const app = m.mount(document.getElementById('arena'), App)
-  </script>
 </body>
 
 </html>
