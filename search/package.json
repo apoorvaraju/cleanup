@@ -1,0 +1,12 @@
+{
+  "name": "search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "wade": "^0.3.3"
+  },
+  "scripts": {
+    "exe": "node index"
+  }
+}

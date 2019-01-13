@@ -1,4 +1,8 @@
-# import numpy as np
+'''
+Extracting three columns from the raw csv file: data/audio.csv
+Output is: data/3cs.csv
+'''
+
 import pandas as pd
 
 def column_names(dataframe):
