@@ -1,0 +1,539 @@
+alg administrative services
+['alg administrative services', 'vehicle administrative services', 'alg administrative services wendy kurz']
+
+sonic healthcare usa
+['sonic healthcare usa', 'sonic healthcare', 'seton healthcare']
+
+kone
+['kone', 'eone', 'berkone']
+
+ansys inc
+['ansys inc', 'ansys, inc', 'ansys, inc.']
+
+whitlock
+['whitlock', 'intoxalock', 'westrock']
+
+3d systems
+['3d systems', 'dhl systems', 'dch systems']
+
+addon computer
+['addon computer', 'canada computer', 'e-n computers']
+
+adva optical networking
+['adva optical networking', 'adva optical networking josh golden', '637 davis dr adva optical networking']
+
+ajc international
+['ajc international', 'ace international', 'atco international']
+
+altisource
+['altisource', 'realsource', 'marketsource']
+
+american heart association
+['american heart association', 'american bar association', 'american medical association']
+
+arnold magnetic technologies
+['arnold magnetic technologies', 'baroli technologies', 'averna technologies']
+
+aultman health foundation
+['aultman health foundation', 'nm dental foundation', 'cambia health solutions']
+
+cardno emerging markets usa, ltd.
+['cardno emerging markets usa, ltd.', 'cardno emerging markets usa, ltd. ho_10272016/jennifer hunter']
+
+carpenters district council
+['carpenters district council', 'carpenters district council 111616/mary hayes', 'carpenters district council 812016pen-ar/mary hayes']
+
+coast capital savings
+['coast capital savings', 'colonial savings', 'vanc city savings']
+
+comcast
+['comcast', 'comcast corp', 'compass']
+
+dow corning corporation
+['dow corning corporation', 'dow corning corporation sssachle', 'dow corning corporation jndermon']
+
+fbc
+['fbc', 'wfubmc', 'vfc']
+
+fis
+['fis', 'its', 'isc']
+
+frederick community college
+['frederick community college', 'butler community college', 'roxbury community college']
+
+ge global research
+['ge global research', 'mebs global research, lc', 'mebs global reach']
+
+gs1 us
+['gs1 us', 'f&g us']
+
+gtl
+['tls', 'pgl', 'igt']
+
+hybrid turkeys
+['hybrid turkeys', 'red ventures', 'brian hurley']
+
+ifs world
+['ifs world', 'visible world', 'wireless world']
+
+inland empire health plan
+['inland empire health plan', 'inland empire health plan ware', 'inland empire health']
+
+james madison university
+['james madison univ', 'james madison univ edie swartz', 'denison university']
+
+kent corporation
+['kent corporation', 'eqt corporation', 'kiewit corporation']
+
+los angeles lgbt center
+['los angeles lgbt center jeff heath', 'los angeles lgbt center jared ross', 'l.a. lgbt center']
+
+macdermid inc
+['macdermid inc', 'arm inc', 'meraki inc']
+
+medtronic
+['medtronic', 'medtronic, inc', 'medtronic tyrx']
+
+nerds on site
+['anderson university', 'james giffin  - nerds on site', 'unified brands john heiter']
+
+north suburban medical center
+['north suburban medical center', 'north colorado medical center', 'huron medical center']
+
+one medical
+['one medical', 'moore medical', 'one medical group']
+
+ontrac
+['ontrac', 'montreal', 'icontact']
+
+the orleans hotel & casino
+['orleans hotel & casino', 'orleans hotel and casino receiving dock', 'golden nugget hotel and casino']
+
+precoa
+['precoa', 'precon', 'proag']
+
+redfin
+['redfin', 'redinet', 'triplefin']
+
+rutgers university
+['rutgers university', 'ryerson university', 'southern university']
+
+saint vincent health center
+['saint vincent health center', 'st vincents health care', 'tsaile health center']
+
+salsa labs
+['salsa labs', 'vaisala bos', 'all star leads']
+
+sandvik materials technology
+['sandvik materials technology', 'sandvik materials technology tim randall', 'element materials technology']
+
+the sherwin-williams company
+['the sherwin-williams co', 'the sherwin-williams co a/p', 'the williams companies']
+
+social security administration
+['social security administration', 'social security administration (ssa)', 'social security administration john story']
+
+space coast credit union
+['space coast credit union', 'patelco credit union', 'scott credit union']
+
+spectrum brands
+['spectrum brands', 'spectrum brands hhi', 'hhi - spectrum brands']
+
+sunquest information systems
+['sunquest information systems', 'sunquest informations systems', 'unitek information systems']
+
+syracuse orthopedic specialists
+['syracuse orthopedic specialists', 'orthopedic specialists', 'syracuse orthopedic specialists attn:tom madeline']
+
+tcc software solutions
+['tcc software solutions', 'eci software solutions inc', 'care solutions']
+
+travel incorporated
+['travel incorporated', 'raid incorporated', 'sandvine incorporated']
+
+unisource worldwide
+['unisource worldwide', 'unisource worldwide inc', 'unisource worldwide, inc.']
+
+unite here health
+['unite here health', 'vivere health', 'sutter health']
+
+united launch alliance
+['united launch alliance', 'united launch alliance po 4500070278', 'united launch alliance allen etheridge']
+
+university of denver
+['university of denver', 'university of detroit mercy', 'university of waterloo']
+
+university of north carolina
+['university of north carolina', 'university of north carolina charlotte', 'university of northern colorado']
+
+usps
+['usps', 'ups', 'sps']
+
+utc aerospace systems
+['utc aerospace systems', 'telos systems', 'futura systems']
+
+wabtec corporation
+['wabtec corporation', 'cabot corporation', 'nec corporation']
+
+weebly
+['weebly', 'wheels']
+
+winrock international
+['winrock international', 'vwr international', 'orc international']
+
+xl global services
+['xl global services', 'ibm global services', 'sutherland global services']
+
+advanced billing solutions
+['advanced billing solutions', 'advanced billing solutions angel cameron', 'advanced office solutions inc.']
+
+chamberlain college of nursing
+['chamberlain college of nursing', 'chamberlain colge of nurs t. g. kestner', 'american college of radiology inc']
+
+ecot
+['emco', 'coty', 'cotg']
+
+insuritas
+['insuritas', 'securitas', 'intuit']
+
+mcis inc
+['msci inc', 'ihs inc', 'fms inc']
+
+new york life insurance
+['new york life insurance co', 'new york life insurance co.', 'new era life insurance co']
+
+sanmina corp
+['sanmina corp', 'sanmina corporation', 'spatial corp']
+
+smiths medical
+['smiths medical asd', 'oasis medical', 'mms medical']
+
+toronto western hospital
+['toronto western hospital', 'toronto general hospital', 'toronto east general hospital']
+
+university of southern california
+['university of southern california', 'university of northern colorado', 'bank of southern california']
+
+us dept of justice
+['us dept of justice', 'department of justice', 'us dept of hud']
+
+video corporation of america
+['video corporation of america kev g.', 'sony corporation of america', 'video corporation of america maisha brown']
+
+west monroe partners
+['west monroe partners llc', 'eaton partners', 'centre partners']
+
+wireless toyz
+['wireless toyz # 164', 'wireless toyz # 133', 'wireless trendz']
+
+adcomm
+['adcomm', 'aecom', 'aacom']
+
+aees inc.
+['alere inc.', 'abs inc.', 'maersk inc.']
+
+air quality systems
+['arvato systems', 'agility fuel systems', 'ice health systems']
+
+american bar association
+['american bar association', 'american heart association', 'american lung association']
+
+axis communications inc
+['axis communications', 'apex communications inc.', 'cms communications inc']
+
+beam suntory inc.
+['beam suntory', 'bebe stores, inc.', 'the pantry, inc.']
+
+butler county cmty c
+['butler community college', 'beaufort county community college', 'butler machinery company']
+
+community financial credit union 
+['community financial credit union', 'fort financial credit union', 'first financial credit union']
+
+concord orthopaedics
+['concord orthorpaedics', 'advanced orthopaedics', 'concord orthorpaedics po 358-2016']
+
+delaware north
+['delaware north', 'delaware north help desk', 'demandware inc.']
+
+u.s. bancorp
+['u.s. bankruptcy court', 'pacwest bancorp', 'us bank']
+
+fmc
+['wfubmc', 'vfc', 'tmc']
+
+meridian capital group
+['meridian capital group llc', 'gain capital group', 'kaminer financial group']
+
+hospital for special surgery
+['hospital for special surgery', 'hospital for special surgery lorena colon', 'hospital for special surgery evette staff']
+
+it
+['it', 'oit', 'mit']
+
+mercury computer systems inc
+['mercury computer systems', 'mercury computer systems dennis aucoin', '5d computer systems inc.']
+
+nederman inc
+['nederman', 'belden inc', 'mane inc']
+
+perform.com
+['performics', 'perforce', 'kforce.com']
+
+quantcast corporation
+['quantum corporation', 'quad corporation', 'intacct corporation']
+
+hca
+['hca', 'hcam', 'ca']
+
+teletech services corporation
+['teletech services corp', 'ppl services corporation', 'aep service corporation']
+
+rsh mark majecki
+['rsh mark majecki', 'rsh mark majecki attn:john brown', 'mark meakins']
+
+signode industrial group llc
+['signode industrial group llc - serv', 'turner industries group, l.l.c.', 'cnh industrial llc']
+
+stafford senior high school
+['stafford high school', 'westfield senior high sch', 'st paul s high school']
+
+ten-x
+['ten-x', 'ten - nexx', 'telx']
+
+us carenet corp
+['us carenet corporate', 'carenero corp', 'sky rental corp']
+
+vancouver island health authority
+['vancouver island health author', 'cumberland health authority', 'northern health authority']
+
+volusia county school district
+['polk county school district', 'douglas county school district', 'clark county school district']
+
+capital lending
+['capital lending', 'catapult learning', 'prime lending']
+
+city hosted solutions
+['it cloud solutions', 'cte solutions', 'comtec solutions']
+
+corgan assoc
+['dora casson', 'corgan', 'christianson & assoc']
+
+edelman
+['edelman', 'nederman', 'edens']
+
+honeywell aerospace
+['honeywell aerospace', 'honeywell aero', 'honeywell asca']
+
+marlette funding, llc
+['marlette funding', 'marlette funding a/p', 'planet home lending, llc']
+
+rmcc
+['rmcc', 'sormc', 'mbchc']
+
+cameron enterprises
+['cox enterprises', 'ferguson enterprises', 'roydan enterprises']
+
+bkd it mwilson
+['bkd llp mwilson', 'brad wilson', 'brian wilson']
+
+access information management
+['access information management', 'ups - information management', 'access information management brian quinn']
+
+mercury general
+['mercury network llc', 'mercurygate international', 'mercury marine']
+
+henry county hospital  [hosp]
+['henry county hospital', 'newberry county hospital', 'bladen county hospital']
+
+highland district hospital [hosp]
+['highland hospital', 'kaweah delta district hospital iss', 'kaweah delta district hospital']
+
+achiever christian school
+['cole valley christian schools', 'san gabriel christian school', 'rehoboth christian school']
+
+desjardins securite financiere
+['security finance', 'mariner finance', 'sentinel security life insurance']
+
+caliber home loans inc
+['caliber home loans inc', 'caliber home loans', 'caliber home loans sanchez rosa']
+
+at&t corp
+['at&t corp', 'xapt corp', 'mas corp']
+
+the christian broadcasting network inc
+['the christian broadcasting network giancola, lea', 'the christian broadcasting network swager, tracy', 'christian broadcast network']
+
+cleary gottlieb steen & hamilton
+['cleary gottlieb steen hamilton', 'cleary gottlieb steen hamilton lenis santos', 'cleary gottlieb steen hamilton michael hallman']
+
+cone health systems
+['net health systems', 'ice health systems', 'cooper health system']
+
+dell inc
+['dell inc', 'dell, inc', 'dell inc.']
+
+earthlink business
+['earthlink inc', 'verizon business', 'american business']
+
+federal reserve bank of kansas city
+['federal reserve bank of dallas', 'federal reserve bank tracy koch', 'federal reserve bank']
+
+flextronics international ltd
+['flextronics international usa', 'flextronics international usa dept recv', 'drias international ltd.']
+
+great expressions dental centers
+['great expressions dental cente', 'east professional center', 'great expressions']
+
+alberta health zone ( ahs )
+['alberta health services']
+
+hsbc bank canada
+['hsbc bank canada', 'hsbc bank canada-', 'hsbc bank usa na']
+
+international bancshares corporation
+['national instruments corporation', 'york international corporation', 'hub international transportation']
+
+interstate distributor co
+['interstate distributor co', 'interstate distributor co missy weber', 'interstate distributor co javier tarin']
+
+inventiv group holdings, inc.
+['aderant holdings, inc.', 'vision group holdings', 'delek us holdings, inc']
+
+lancaster-lebanon iu 13
+[]
+
+limitless mobile, llc
+['limitless mobile, llc', 'limitless mobile', 'limitless mobile-svm']
+
+lord corporation
+['lord corporation', 'taylor corporation', 'rand corporation']
+
+maru group inc
+['maru group inc', 'aero group inc.', 'movado group inc']
+
+memorialcare health system
+['memorialcare health system', 'memorial health system', 'memorialcare health syste mike nieto']
+
+metso minerals industries inc
+['metso minerals industries inc', 'metso minerals industries inc kori larson', 'metso minerals canada inc']
+
+ministry of forests, lands and natural resource operations
+['ministry of forests, land & natural resources', 'ministry of forests, land & natural resource']
+
+cbre
+['cbre', 'ncred', 'cbre ltd']
+
+pointclickcare technologies inc
+['pointclickcare technologies inc.', 'pointclickcare technologies', 'principled technologies inc']
+
+prevea health
+['prevea health', 'privia health', 'presence health']
+
+american airlines
+['american airlines', 'caribbean airlines', 'mn airlines']
+
+schaeffler group
+['schaeffler group', 'schumacher group', 'ashar group']
+
+schroeder industries
+['schroeder industries llc', 'cooper industries', 'charles industries']
+
+skybitz inc.
+['sita inc.', 'skybitz', 'bz inc.']
+
+swarovski north america ltd
+['swarovski north america ltd', 'swarovski north america', 'salov north america corp']
+
+the channel company llc
+['the channel company', 'the fishel company', 'the nielson company']
+
+thomson reuters markets llc
+['thomson reuters (markets) llc', 'thomson reuters-tr (markets) llc', 'thomson reuters-tr (markets) llc rahul anand']
+
+transplace, inc
+['transplace', 'transplace tx, lp', 'apple, inc']
+
+tricon american homes
+['tricon american homes', 'bridon american', 'zestron america']
+
+ups
+['ups', 'usps', 'usi']
+
+vantage health
+['avadyne health', 'entra health', 'covenant health']
+
+exxon mobil
+['exxon mobil', 'exxonmobil', 'exxonmobil sales']
+
+adp canada
+['adp canada', 'sap canada', 'sapa canada']
+
+advance central services
+['advance central services', 'advance central services pa', 'advance central services mi']
+
+aesculap
+[]
+
+coventry health care
+['coventry health care', 'coventry health care/aetna', 'coventry health care- aetna']
+
+alcoa
+['nalco', 'allcom', 'alcoa inc']
+
+alegeus technologies llc
+['alegeus technologies', 'alegeus technologies dave buell', 'veritas technologies llc']
+
+amec foster wheeler e&i inc
+['amec foster wheeler e&i', 'amec foster wheeler e i', 'amec foster wheeler e&c serv']
+
+america first insurance company
+['america first insurance company', 'american service insurance company', 'primerica life insurance company']
+
+aaa oklahoma
+['aaa oklahoma', 'bank of oklahoma', 'buffalo, oklahoma']
+
+amica mutual insurance
+['amica mutual insurance co', 'amica mutual insurance co.', 'amica mututal insurance co.']
+
+arcadis us inc
+['arcadis us inc', 'arcadis u.s. inc', 'arcadis u.s. inc.']
+
+armtec limited partnership
+['d+h limited partnership', 'd h limited partnership', 'strongco limited partnership']
+
+atlantic wireless command
+['atlantic wireless comm a9', 'atlantic wireless comm a8', 'atlantic wireless comm a7']
+
+triple aaa
+['metrie canada', 'triple m metal', 'april canada']
+
+baker sanders l.l.c.
+['baker sanders', 'mike sanders', 'eric sanders']
+
+baylor scott & white health
+['baylor scott & white health', 'baylor scott   white health', 'baylor scott & white hospital']
+
+betaseed inc
+['betaseed', 'bealls inc', 'sybase, inc']
+
+blackbaud inc
+['blackboard inc', 'blackbaud', 'blackbaud/convio']
+
+blake cassels & graydon llp
+['blake cassels   graydon llp']
+
+blue cross blue shield
+['blue cross blue shield of tn', 'blue cross blue shield of sc', 'blue cross blue shield of ne']
+
+bnsf railway company
+['bnsf railway', 'bnsf railway john hill', 'mfa oil company']
+
+bosch rexroth canada corp
+['bosch rexroth canada corp', 'bosch rexroth canada corporati', 'bosch rexroth canada']
+
+lscc
+['lm ssc']
+
+bristol-myers squibb
+['bristol-myers squibb', 'bristol myers squibb', 'bristol-myers squibb co']
